@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treack
 - 👀 I’m interested in learnd
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning backend/frontend/BD/AWS
 - 💞️ I’m looking to collaborate on frameworks
 - 📫 How to reach me ...
 
